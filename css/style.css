@@ -8,6 +8,7 @@
   body {
     color: #434455;
     background-color:  #FFFFFF;
+    font-family: "Roboto", sans-serif ; 
   }
 
   .raleway-uniquifier {
@@ -46,10 +47,10 @@ color: #2e2f42;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.menu :hover {
+.menu:hover {
    color: #404bbf;
 }
-.menu :focus{
+.menu:focus{
   color:#404bbf ;
 }
 .info {
@@ -61,10 +62,10 @@ color: #2e2f42;
   color:#434455;
 
 }
-.mail :hover {
+.mail:hover {
   color: #404bbf;
 }
-.mail :focus {
+.mail:focus {
 
   color: #404bbf;
 }
